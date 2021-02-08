@@ -1,33 +1,38 @@
 # Bibliografia
-Adriana Veloso Meireles. A inovação no Design de Interação: Design Livre para modelos sustentáveis (Trabajo final de curso) – Especialización en Design de Interacción, PUC Minas, Belo Horizonte, 2011.
-Álvaro Vieira Pinto - O Conceito de Tecnologia. vol. 2 Rio de Janeiro: Contraponto, 2005.
-António Machado. Cantares (poema).
-Antônio Martiniano Fontoura. EdaDe – A educação de crianças e jovens através do design. 2002. 357 f. Tesis (Doctorado) – Programa de posgrado en Ingeniería de Producción – PPGEP, Universidade Federal de Santa Catarina, Florianópolis, 2002.
-Augusto dos Anjos. Eu e outras poesias. São Paulo: Martins Fontes, 1994.
-Caio Adorno Vassão. Arquitetura Livre – Complexidade, Metadesign e Ciência Nômade. Tesis (Doctorado) – Facultad de Arquitectura y Urbanismo, FAUUSP, Universidad de São Paulo, São Paulo, 2008.
-David Freeman. Creating emotion in games: The craft and art of emotioneering. Indianapolis: New Riders, 2003.
-Dick Raaijmakers. Method. Edición y traducción: Vincent W.J. van Gersen Oei. Amsterdan: Onomatopee, 2009.
-Dijon de Moraes. Metaprojeto: o design do design. São Paulo: Blucher, 2010
-Eduardo Agni. Uma proposta de Design Livre. In. Agni.art. Disponible en <http://www.agni.art.br/uma-proposta-de-design-livre/>
-Eric S. Raymond. The Cathedral and the Bazaar: musings on Linuz and Open source by an Accidental revolutionary. Sebastopol: O'Reilly. 2001.
-Frederick van Amstel. A Saga do Design Livre. In. Usabilidoido. 15 jun 2011. Disponible en <http://usabilidoido.com.br/a_saga_do_design_livre.html>
-Frederick van Amstel. Open Design and Free Design are not the same. In. Fred van Amstel. 10 mai 2011. Disponible en <http://fredvanamstel.com/blog/open-design-and-free-design-are-not-the-same>
-Frederick van Amstel. Pedagogia do Design Livre. In. Usabilidoido. 18 nov 2011. Disponible en <http://usabilidoido.com.br/pedagogia_do_design_livre.html>
-Horst Rittel e Melvin Webber. Dilemmas in a General Theory of Planning. In. Policy Sciences, Vol. 4. Amsterdam: Elsevier Scientific Publishing Company, 1973; p.155–169.
-Hugh Dubberly. How do you design? Dubberly Design Office, 2010
-Jesús Martín-Barbero. Dos meios às mediações: comunicação, cultura e hegemonia. Rio de Janeiro: Editora da UFRJ, 1997.
-Joan Ernst van Aken. Valid knowledge for the professional design of large and complex diseño processes. Design Studies, v. 26, n. 4, p. 379–404, Jul. 2005.
-Make Shift: a journal of hidden criativity, 1.ª edición, 2011.
-Marshall McLuhan. Os Meios são as Massa-gens. São Paulo: Editoral Record, 1969.
-Massimo Menichinelli. Why is Open Design Going Mainstream Now. In. Open P2P Design. Disponible en <http://www.openp2pdesign.org/2011/open-design/open-design-is-going-mainstream-now-first-part/>
-Míriam Cristina Carlos Silva. Comunicação e Cultura Antropofágicas - mídia, corpo e paisagem na erótico-poética oswaldiana. Porto Alergre: Sulina, Sorocaba: EDUNISO, 2007.
-Otl Aicher. El mundo como proyecto. Barcelona: Gustavo Gili, 1994.
-Paulo Freire. Pedagogia da Autonomia: saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996.
-Peter Troxler, Paulo Atkinson e Caroline Hummels. Open Design Now: Why Design Cannot Remain Exclusive. Amsterdam: BIS publishers, 2011.
-Revista de Antropofagia. Reedición de la revista literaria. São Paulo: Círculo do Livro, 1975.
-Rodrigo Freese Gonzatto. Design Livre: processo aberto, desenvolvimento liberto. In. Instituto Faber-Ludens. 15 jul 2009. Disponible en <http://www.faberludens.com.br/pt-br/node/1755>
-Rodrigo Savazoni e Sergio Cohn (Org.). Cultura Digital.br. Rio de Janeiro: Beco do Azougue, 2009.
-Umberto Eco. Obra Aberta. São Paulo: Editorial Perspectiva, 1968.
-Victor Papanek. Design for the real world: human ecology and social change. London: Thames and Hudson, 1985.
-What is free software? In. GNU Operating System. Disponible en <http://www.gnu.org/philosophy/free-sw.html>
-¡El libro no se acaba aquí! Este libro puede ser copiado, complementado, remixado y traducido cuantas veces la comunidad lo desee. Si querés hacer una contribución, entrá a corais.org/livro ¡y hacé tu propuesta!
+
+-Adriana Veloso Meireles. A inovação no Design de Interação: Design Livre para modelos sustentáveis (Trabajo final de curso) – Especialización en Design de Interacción, PUC Minas, Belo Horizonte, 2011.
+-Álvaro Vieira Pinto - O Conceito de Tecnologia. vol. 2 Rio de Janeiro: Contraponto, 2005.
+-António Machado. Cantares (poema).
+-Antônio Martiniano Fontoura. EdaDe – A educação de crianças e jovens através do design. 2002. 357 f. Tesis (Doctorado) – Programa de posgrado en Ingeniería de Producción – PPGEP, Universidade Federal de Santa Catarina, Florianópolis, 2002.
+-Augusto dos Anjos. Eu e outras poesias. São Paulo: Martins Fontes, 1994.
+-Caio Adorno Vassão. Arquitetura Livre – Complexidade, Metadesign e Ciência Nômade. Tesis (Doctorado) – Facultad de Arquitectura y Urbanismo, FAUUSP, Universidad de São Paulo, São Paulo, 2008.
+-David Freeman. Creating emotion in games: The craft and art of emotioneering. Indianapolis: New Riders, 2003.
+-Dick Raaijmakers. Method. Edición y traducción: Vincent W.J. van Gersen Oei. Amsterdan: Onomatopee, 2009.
+-Dijon de Moraes. Metaprojeto: o design do design. São Paulo: Blucher, 2010
+-Eduardo Agni. Uma proposta de Design Livre. In. Agni.art. Disponible en <http://www.agni.art.br/uma-proposta-de-design-livre/>
+-Eric S. Raymond. The Cathedral and the Bazaar: musings on Linuz and Open source by an Accidental revolutionary. Sebastopol: O'Reilly. 2001.
+-Frederick van Amstel. A Saga do Design Livre. In. Usabilidoido. 15 jun 2011. Disponible en <http://usabilidoido.com.br/a_saga_do_design_livre.html>
+-Frederick van Amstel. Open Design and Free Design are not the same. In. Fred van Amstel. 10 mai 2011. Disponible en <http://fredvanamstel.com/blog/open-design-and-free-design-are-not-the-same>
+-Frederick van Amstel. Pedagogia do Design Livre. In. Usabilidoido. 18 nov 2011. Disponible en <http://usabilidoido.com.br/pedagogia_do_design_livre.html>
+-Horst Rittel e Melvin Webber. Dilemmas in a General Theory of Planning. In. Policy Sciences, Vol. 4. Amsterdam: Elsevier Scientific Publishing Company, 1973; p.155–169.
+-Hugh Dubberly. How do you design? Dubberly Design Office, 2010
+-Jesús Martín-Barbero. Dos meios às mediações: comunicação, cultura e hegemonia. Rio de Janeiro: Editora da UFRJ, 1997.
+-Joan Ernst van Aken. Valid knowledge for the professional design of large and complex diseño processes. Design Studies, v. 26, n. 4, p. 379–404, Jul. 2005.
+-Make Shift: a journal of hidden criativity, 1.ª edición, 2011.
+-Marshall McLuhan. Os Meios são as Massa-gens. São Paulo: Editoral Record, 1969.
+-Massimo Menichinelli. Why is Open Design Going Mainstream Now. In. Open P2P Design. Disponible en <http://www.openp2pdesign.org/2011/open-design/open-design-is-going-mainstream-now-first-part/>
+-Míriam Cristina Carlos Silva. Comunicação e Cultura Antropofágicas - mídia, corpo e paisagem na erótico-poética oswaldiana. Porto Alergre: Sulina, Sorocaba: EDUNISO, 2007.
+-Otl Aicher. El mundo como proyecto. Barcelona: Gustavo Gili, 1994.
+-Paulo Freire. Pedagogia da Autonomia: saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996.
+-Peter Troxler, Paulo Atkinson e Caroline Hummels. Open Design Now: Why Design Cannot Remain Exclusive. Amsterdam: BIS publishers, 2011.
+-Revista de Antropofagia. Reedición de la revista literaria. São Paulo: Círculo do Livro, 1975.
+-Rodrigo Freese Gonzatto. Design Livre: processo aberto, desenvolvimento liberto. In. Instituto Faber-Ludens. 15 jul 2009. Disponible en <http://www.faberludens.com.br/pt-br/node/1755>
+-Rodrigo Savazoni e Sergio Cohn (Org.). Cultura Digital.br. Rio de Janeiro: Beco do Azougue, 2009.
+-Umberto Eco. Obra Aberta. São Paulo: Editorial Perspectiva, 1968.
+-Victor Papanek. Design for the real world: human ecology and social change. London: Thames and Hudson, 1985.
+-What is free software? In. GNU Operating System. Disponible en <http://www.gnu.org/philosophy/free-sw.html>
+
+
+## ¡No se acaba aquí! 
+
+Este libro puede ser copiado, complementado, remixado y traducido cuantas veces la comunidad lo desee. Si querés hacer una contribución, entrá a corais.org/livro ¡y hacé tu propuesta!
