@@ -48,21 +48,21 @@ No hay software intuitivo. Tratándose especialmente de softwares propietarios, 
 
 Las solicitudes de [“*métele más diseño*”](https://youtu.be/XbhW-FToKgk), que los diseñadores tanto odian, refleja esta problemática: dominar estas herramientas exige práctica y conocimiento. No es el software el que se adecúa a partir del conocimiento de su usuario, y en caso contrario, incita a que muchos desistan de la difícil tarea. Es necesario (re)construir sus propias herramientas para que, solo así, sean realmente suyas.
 
-> NAHUI EJEKATMET
-> Ejekat pal yanhuit
-> Nialika palehuiat istak
-> Mishigan ihuan nusan
-> Tiaktamet ipal sihuatagat
-> Gajaguimatiket mijmintik
-> Guitaliat tajtaya uan ijtilia
-> Ipalli se yanhuit kinij.
-> %
-> CUATRO LIBERTADES
-> Vientos del cambio
-> Evoquen altruismo
-> Distribución con igualdad
-> Principios de equidad
-> Jerarquías lineales
-> Usando recursos con respeto
-> Para una nueva era.
+> NAHUI EJEKATMET<br>
+> Ejekat pal yanhuit<br>
+> Nialika palehuiat istak<br>
+> Mishigan ihuan nusan<br>
+> Tiaktamet ipal sihuatagat<br>
+> Gajaguimatiket mijmintik<br>
+> Guitaliat tajtaya uan ijtilia<br>
+> Ipalli se yanhuit kinij.<br>
+> %<br>
+> CUATRO LIBERTADES<br>
+> Vientos del cambio<br>
+> Evoquen altruismo<br>
+> Distribución con igualdad<br>
+> Principios de equidad<br>
+> Jerarquías lineales<br>
+> Usando recursos con respeto<br>
+> Para una nueva era.<br>
 > [Walter Mauricio Garcia —Colectivo “Sennemit Shinakti”]
