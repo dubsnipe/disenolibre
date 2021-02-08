@@ -1,9 +1,8 @@
 # Bookmarks
 Presentamos una selección de links para profundizar en el tema.
-
 - [Arduino: arduino.cc](arduino.cc)
 - [BigBlueButton: bigbluebutton.org](bigbluebutton.org)
-- [Booksprints: booksprints.net
+- [Booksprints: booksprints.net](booksprints.net)
 - [BrOffice: broffice.org](broffice.org)
 - [Bug Labs: buglabs.net](buglabs.net)
 - [Carbon FootPrint: carbonfootprint.com](carbonfootprint.com)
