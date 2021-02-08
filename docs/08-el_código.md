@@ -42,8 +42,8 @@ La primera es representada en el libro *Metaprojeto* (Metaproyecto) de Dijon de 
 Su tesis sobre Arquitectura Libre es una de las principales referencias para el diseño libre. En lugar de abordar el diseño como un proceso abstracto o una habilidad del individuo, Caio desarrolla la noción del proyecto colectivo. Eso vuelve a sus ideas mucho más interesantes para fundamentar proyectos en grupo como actividad pedagógica. Cuando el diseñador trabaja solo, su reflexión sobre el metadiseño ocurre solo en sus pensamientos. Sin embargo, cuando el proyecto se realiza en grupo, el metadiseño se vuelve más visible: es obligado a verbalizar, escribir o expresar de alguna forma su reflexión para participar del proceso.
 
 ![](img/Metaproyecto.png)
-> Estoy a tu lado
-y te das cuenta,
-que he muerto
-por una causa mayor.
-[Polly Class - Sofia]
+> Estoy a tu lado<br>
+> y te das cuenta,<br>
+> que he muerto<br>
+> por una causa mayor.<br>
+> [Polly Class - Sofia]

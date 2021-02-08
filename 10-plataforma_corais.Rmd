@@ -74,30 +74,18 @@ La cuestión ética es central en el Diseño Libre, lo que aleja sus discusiones
 
 Distanciándose de un enfoque de “compartir archivos abiertos”, o de dominar la utilización de un software u otro, el diseño libre busca sobrepasar el dominio técnico de la herramienta, y contextualizar el conocimiento. Saber cuándo utilizar una herramienta es tan importante como saber utilizarla.
 
-> O diseño é um cantor de Pout-Pourri.
+> O diseño é um cantor de Pout-Pourri.<br>
+> Daí nos decidimos comê-lo.<br>
+> O diseño é um cadáver hiperativo que eu digeri.<br>
+> %<br>
+> El diseño es un cantante de Pout-Pourri.<br>
+> Por ello es que decidimos comerlo.<br>
+> El diseño es un cadáver hiperactivo que yo digerí.<br>
 
-> Daí nos decidimos comê-lo.
 
-> O diseño é um cadáver hiperativo que eu digeri.
-
-> %
-
-> El diseño es un cantante de Pout-Pourri.
-
-> Por ello es que decidimos comerlo.
-
-> El diseño es un cadáver hiperactivo que yo digerí.
-
-> %
-
-> A livre expressão é o que constrói uma nação
-
-> independentemente da moeda e sua cotação
-
-> Deixa eu falar, filha-da----!!!
-
-> Expressão!! % La libre expresión es lo que construye una nación indepnedientemente de la moneda y su cotización.
-
-> ¡Déjame hablar, hija de -----! ¡Expresión!
-
+> A livre expressão é o que constrói uma nação<br>
+> independentemente da moeda e sua cotação<br>
+> Deixa eu falar, filha-da----!!!<br>
+> Expressão!! % La libre expresión es lo que construye una nación indepnedientemente de la moneda y su cotización.<br>
+> ¡Déjame hablar, hija de -----! ¡Expresión!<br>
 > [Raimundos -Deixa eu falar]

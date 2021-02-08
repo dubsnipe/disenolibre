@@ -36,8 +36,8 @@ El modelo de educación a distancia en sí ya es un desafío, el de superar las 
 
 La estudiante se transforma en la responsable de su propio aprendizaje. Puede decidir en qué áreas del curso va a querer profundizar y las que apenas mirará por encima. No es necesario que la profesora exija a la alumna que siga el currículo propuesto por obligación, pero sí alentar a esta alumna en su búsqueda del conocimiento.
 
-> Los que pasan no saben
-> que ya somos eternos.
-> Con sólo tener esta
-> conciencia del misterio.
-[David Escobar Galindo]
+> Los que pasan no saben<br>
+> que ya somos eternos.<br>
+> Con sólo tener esta<br>
+> conciencia del misterio.<br>
+> [David Escobar Galindo]

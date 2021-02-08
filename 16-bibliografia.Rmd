@@ -34,5 +34,4 @@
 
 
 ## ¡No se acaba aquí! 
-
 Este libro puede ser copiado, complementado, remixado y traducido cuantas veces la comunidad lo desee. Si querés hacer una contribución, entrá a corais.org/livro ¡y hacé tu propuesta!

@@ -28,4 +28,8 @@ El plan libre comienza por el fin, o más bien, por los finales. Por los fines a
 
 Estos tipos de planes son descripciones genéricas que de hecho no suceden aisladamente. Planes de diferentes tipos se cruzan; comienzan y no terminan; terminan y no comienzan. Las personas hacen planes en situaciones específicas y su actuar cambia de acuerdo con su situación. Por eso, el diseño es definido de diferentes maneras.
 
-> El shangri-lá // Si lo buscas // Esta en ti, // no en las montañas [Akumal - Shangri-lá]
+> El shangri-lá<br>
+> Si lo buscas<br>
+> Esta en ti,<br>
+> no en las montañas <br>
+> [Akumal - Shangri-lá]

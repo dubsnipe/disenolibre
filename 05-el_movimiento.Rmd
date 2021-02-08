@@ -18,6 +18,6 @@ Esto es pleonasmo puro. Todo proceso de diseño es “colaborativo”. No existe
 
 En la definición anterior, el principal argumento de definición del Diseño libre está en la palabra “proceso”, en la preocupación con el proyecto durante el proyecto, y no apenas en un presupuesto del producto. El enfoque no es simplemente que el resultado sea abierto, sino que la colaboración esté integrada en el proceso.
 
-> Me rodea el gran Misterio, y ante él, humilde me inclino, que en silencio estoy formando todo un Destino. [Claudia Lars - El misterio]
-
 ![](img/design-experimentos.png)
+
+> Me rodea el gran Misterio, y ante él, humilde me inclino, que en silencio estoy formando todo un Destino. [Claudia Lars - El misterio]

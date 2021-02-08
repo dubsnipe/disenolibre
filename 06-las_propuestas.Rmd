@@ -63,5 +63,6 @@ Hasta aquí ofrecemos una discusión meramente conceptual, sin mostrar muchos ej
   * Ejemplo En Catarsis, un principiante puede crear un proyecto y recibir financiamiento de sus amigos, que se juntan poniendo cada uno una pequeña cantidad.
 ![](img/catarse_pb.png)
 
-> Si quiero nadar contra la corriente, pues eso está bien
-> Quita el ancla y saca el peso de mis pies [Poladoids - Crayola]
+> Si quiero nadar contra la corriente, pues eso está bien<br>
+> Quita el ancla y saca el peso de mis pies<br>
+> [Poladoids - Crayola]

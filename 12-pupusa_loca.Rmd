@@ -10,6 +10,7 @@ El diseño libre no es una pupusa loca, sino el hecho de hacer una. Entonces no 
 
 ![](img/dilacerado.png)
 
-> O seu amor é canibal Comeu meu coração Mas agora eu sou feliz O seu amor é canibal Meu coração Agora é todo carnaval.
-> %
-> Su amor es caníbal. Comió mi corazón. Pero ahora soy feliz. Su amor es caníbal. Mi corazón ahora es todo carnaval. [Ivete Sangalo - Canibal]
+> O seu amor é canibal Comeu meu coração Mas agora eu sou feliz O seu amor é canibal Meu coração Agora é todo carnaval.<br>
+> %<br>
+> Su amor es caníbal. Comió mi corazón. Pero ahora soy feliz. Su amor es caníbal. Mi corazón ahora es todo carnaval.<br>
+> [Ivete Sangalo - Canibal]
