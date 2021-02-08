@@ -36,7 +36,7 @@ Presentamos una selección de links para profundizar en el tema.
 - [Poesia Concreta: poesiaconcreta.com](poesiaconcreta.com)
 - [Scribus: scribus.net](scribus.net)
 - [Twitter: twitter.com](twitter.com)
-- (Un)limited Design Contest: unlimiteddesigncontest.org](unlimiteddesigncontest.org)
+- [(Un)limited Design Contest: unlimiteddesigncontest.org](unlimiteddesigncontest.org)
 - [Waag Society: waag.org](waag.org)
 - [Wikileaks: wikileaks.org](wikileaks.org)
 - [Wikipedia: wikipedia.com](wikipedia.com)
