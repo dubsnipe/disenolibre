@@ -1,0 +1,44 @@
+# Bookmarks
+Presentamos una selección de links para profundizar en el tema.
+
+- [Arduino: arduino.cc](arduino.cc)
+- [BigBlueButton: bigbluebutton.org](bigbluebutton.org)
+- [Booksprints: booksprints.net
+- [BrOffice: broffice.org](broffice.org)
+- [Bug Labs: buglabs.net](buglabs.net)
+- [Carbon FootPrint: carbonfootprint.com](carbonfootprint.com)
+- [Catarse: catarse.me](catarse.me)
+- [Chico Xavier: institutochicoxavier.org.br](institutochicoxavier.org.br)
+- [Corais: corais.org](corais.org)
+- [Creative Commons: creativecommons.org](creativecommons.org)
+- [Design for Download: drooglab.com/projects/events/design-for-download/](drooglab.com/projects/events/design-for-download/)
+- [Design Livre: designlivre.org](designlivre.org)
+- [Designoteca: diseñooteca.com](diseñooteca.com)
+- [Droog: droog.com](droog.com)
+- [Drupal: drupal.org](drupal.org)
+- [Etherpad: etherpad.com](etherpad.com)
+- [FabLab Amsterdam: fablab.waag.org](fablab.waag.org)
+- [Free Software Foundation: www.fsf.org](www.fsf.org)
+- [Frog Mob: frogmob.frogdesign.com](frogmob.frogdesign.com)
+- [Instituto Faber-Ludens: faberludens.com.br](faberludens.com.br)
+- [iFixIt: ifixit.com](ifixit.com)
+- [IKEA: ikea.com](ikea.com)
+- [Quirky: quirky.com](quirky.com)
+- [Nike ID: nikeid.nike.com
+- [Let'sEvo: lets-evo.net](lets-evo.net
+)
+- [Office User Interface Blog: blogs.msdn.com/b/jensenh](blogs.msdn.com/b/jensenh)
+- [Open Atrium: openatrium.com](openatrium.com)
+- [Open Design Fundation: openesign.org](openesign.org)
+- [Open Design Now: openesignnow.org](openesignnow.org)
+- [Open Font Library: openfontlibrary.org](openfontlibrary.org)
+- [Open P2P design: openp2pdesign.org](openp2pdesign.org)
+- [OpenIDEO: openideo.com](openideo.com)
+- [Poesia Concreta: poesiaconcreta.com
+- [Scribus: scribus.net
+- [Twitter: twitter.com
+- (Un)limited Design Contest: unlimiteddesigncontest.org
+- [Waag Society: waag.org
+- [Wikileaks: wikileaks.org
+- [Wikipedia: wikipedia.com
+- [The Pomodoro Technique: pomodorotechnique.com](poesiaconcreta.com)
