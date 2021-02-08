@@ -24,9 +24,8 @@ Presentamos una selección de links para profundizar en el tema.
 - [iFixIt: ifixit.com](ifixit.com)
 - [IKEA: ikea.com](ikea.com)
 - [Quirky: quirky.com](quirky.com)
-- [Nike ID: nikeid.nike.com
-- [Let'sEvo: lets-evo.net](lets-evo.net
-)
+- [Nike ID: nikeid.nike.com](nikeid.nike.com)
+- [Let'sEvo: lets-evo.net](lets-evo.net)
 - [Office User Interface Blog: blogs.msdn.com/b/jensenh](blogs.msdn.com/b/jensenh)
 - [Open Atrium: openatrium.com](openatrium.com)
 - [Open Design Fundation: openesign.org](openesign.org)
@@ -34,11 +33,11 @@ Presentamos una selección de links para profundizar en el tema.
 - [Open Font Library: openfontlibrary.org](openfontlibrary.org)
 - [Open P2P design: openp2pdesign.org](openp2pdesign.org)
 - [OpenIDEO: openideo.com](openideo.com)
-- [Poesia Concreta: poesiaconcreta.com
-- [Scribus: scribus.net
-- [Twitter: twitter.com
-- (Un)limited Design Contest: unlimiteddesigncontest.org
-- [Waag Society: waag.org
-- [Wikileaks: wikileaks.org
-- [Wikipedia: wikipedia.com
+- [Poesia Concreta: poesiaconcreta.com](poesiaconcreta.com)
+- [Scribus: scribus.net](scribus.net)
+- [Twitter: twitter.com](twitter.com)
+- (Un)limited Design Contest: unlimiteddesigncontest.org](unlimiteddesigncontest.org)
+- [Waag Society: waag.org](waag.org)
+- [Wikileaks: wikileaks.org](wikileaks.org)
+- [Wikipedia: wikipedia.com](wikipedia.com)
 - [The Pomodoro Technique: pomodorotechnique.com](poesiaconcreta.com)
