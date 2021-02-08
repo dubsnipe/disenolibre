@@ -1,4 +1,6 @@
 acerca-del-libro
+version
+licencia
 prefacio
 cómo-fue-escrito-este-libro
 cómo-fue-traducido
