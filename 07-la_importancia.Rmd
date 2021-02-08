@@ -15,8 +15,8 @@ Analizando el fenómeno, Eric Raymond sugiere la metáfora de la catedral y del 
 - El modelo **bazar** es exactamente lo opuesto: lanzar el concepto del producto lo más pronto posible, aunque se encuentre incompleto o con fallas y abrir su código fuente para que cualquier persona pueda contribuir directamente al proyecto usando las herramientas de comunicación por Internet.
 
 El software libre inauguró una nueva forma de producción. No obstante, sus productos generalmente son elaborados con un mayor enfoque en conseguir desarrollar sus funciones para el uso real que será hecho de ellas. De cierta forma, lo ideal es que la usuaria de estos productos también sea una programadora, o que se transforme en una. Para quien no sea parte de esta comunidad, sólo es posible participar de ella sabiendo o aprendiendo a escribir código. Para quien ya toma parte de ella, esto implicaría crear una barrera que impediría que ciertos conocimientos sean aprovechados, resultando en la pérdida de contribuciones de personas que simplemente no consiguen acercarse.
-
 ![](img/caixatransparente.png)
+
 
 ## Participación de las usuarias
 
