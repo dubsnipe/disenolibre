@@ -24,7 +24,7 @@ Cuando la demanda aumenta, diversifica y los recursos se vuelven más accesibles
 ![](img/silla.png)
 Ahora nosotros estamos viviendo un momento de expansión de todos los tipos de redes. No son solo las redes de computadoras que se expanden, sino tambien las redes sociales las que permiten que las personas hagan algo en el mundo. El simple acto de cepillarse los dientes depende de la influencia de muchas redes:
 - distribución de agua
-- distribución de pasta y cepillo de dientes
+- distribución de pastas y cepillos de dientes
 - recolección y transformación de los materiales para el cepillo
 - fabricación de los ingredientes para la pasta de dientes
 - conocimientos relacionados a la salud bucal
@@ -32,9 +32,9 @@ Ahora nosotros estamos viviendo un momento de expansión de todos los tipos de r
 Si una conexión de esa red no existiese, el acto no ocurriría. Cuando nuevas conexiones son hechas, nuevos actos son posibles. La tendencia es aumentar, no disminuir, el grado de complejidad de la acción: el sujeto tendrá siempre más opciones a considerar, más objetos con los que interactuar, más conexiones a crear y mantener.
 La disponibilidad de opciones es celebrada como la conquista de una libertad. Cuanta mayor es la cantidad de opciones disponibles, mayor es la libertad. Sin embargo, también aumenta la posibilidad de perplejidad, o sea, la incapacidad de tomar una decisión frente a tantas alternativas. La cantidad da la impresión de que todas las posibilidades ya fueron consideradas y que otras opciones no son posibles. Esta supuesta libertad de escoger es un engaño, pues el sujeto no construye sus opciones.
 > “Se tiende a concebir la libertad y la individualidad como un estatus, como un estado. Se cree que un hombre es libre cuando vive en condiciones que le permiten la toma de decisiones libremente. Pero, solo es libre cuando se produce su libertad. En la más libre de las sociedades, aún hay esclavos entre los hombres, cuando los hombres entienden la libertad como una vestimenta y no como una concretización, como implementación, como proyecto.” [Otl Aicher]
-La libertad que estamos discutiendo en el Diseño Libre es la libertad de proyecto. La libertad que cualquier ser humano tiene de conspirar por su libertad, de redefinir su realidad a traves del artificio. De reconocerse como agente, y no solo observador de la cultura material. Creemos que el diseño siempre fue libre. Esa posibilidad siempre existió. Sin embargo, ahora se torna tan crucial para los rumbos de la sociedad que deseamos enfatizar con ese nombre: Diseño Libre.
+La libertad que estamos discutiendo en el diseño libre es la libertad de proyecto. La libertad que cualquier ser humano tiene de conspirar por su libertad, de redefinir su realidad a traves del artificio. De reconocerse como agente, y no solo observador de la cultura material. Creemos que el diseño siempre fue libre. Esa posibilidad siempre existió. Sin embargo, ahora se torna tan crucial para los rumbos de la sociedad que deseamos enfatizar con ese nombre: diseño libre.
 Por diseño libre entendemos la necesidad de repensar el diseño frente a las transformaciones de los sistemas de producción y consumo ocurridas recientemente por la diseminación de ideologías liberales y tecnologías de la información. ¿Cómo pensar una práctica de diseño que dé cuenta de esa multiplicidad de abordajes, técnicas, métodos, herramientas, conocimientos, valores, culturas que interpelan los proyectos contemporáneos?
-Inspirado en las libertades fundamentales del Software Libre, proponemos las siguientes libertades para el Diseño Libre:
+Inspirado en las libertades fundamentales del Software Libre, proponemos las siguientes libertades para el diseño libre:
 - La libertad de aprender a usar, independiente de un uso propuesto o esperado en un proyecto abierto que fuese consultado.
 - La libertad de estudiar y reproducir el proceso que generó el producto, consultando las documentaciones de las decisiones de diseño: los archivos fuente.
 - La libertad de colaborar con el proceso, incluso modificando el mismo.
